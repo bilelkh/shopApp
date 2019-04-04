@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://admin:azerty123#@ds157901.mlab.com:57901/falti",
+  "jwtSecret": "sl_myJwtSecret"
+}
